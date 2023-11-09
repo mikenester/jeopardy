@@ -1,0 +1,21 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+.category {
+  width: 15vw;
+  background-color: blue;
+  border-color: black;
+  text-align: center;
+  color: white;
+}
+
+td { 
+  text-align: center;
+  background-color: blue;
+  color: red;
+}
